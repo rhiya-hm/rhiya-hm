@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an F1 Data Analysis tracker<br>🤝 I’m looking for help with Data Analytics<br>🌱 I’m currently learning SQL, Python<br>💬 Ask me about IT Support<br>⚡ Fun fact: I am a sports watching geek! Massive F1, cricket and football fan ⚽️🏎️🏏
+🔭 I’m currently working on an F1 Data Analysis tracker<br>🤝 I’m looking for help with Data Analytics<br>🌱 I’m currently learning SQL, Python<br>💬 Ask me about IT Support<br>⚡ Fun fact: I am a sports watching geek! Massive F1, cricket, tennis and football fan ⚽️🏎️🏏
 
 
 ## 🌐 Socials:
